@@ -27,6 +27,8 @@ root.mainloop()
 
 from tkinter import Tk, Label, Button, Entry, IntVar, END, W, E
 
+import tkinter
+
 class Calculator:
 
     def __init__(self, master):
